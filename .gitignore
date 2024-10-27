@@ -1,0 +1,8 @@
+# Ignorar ambientes virtuais
+venv/
+env/
+
+# Ignorar arquivos de configuração do IDE
+.idea/
+*.pyc
+__pycache__/
